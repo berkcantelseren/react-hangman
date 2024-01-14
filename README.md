@@ -5,3 +5,5 @@
 [Try and play a few rounds! Live here.](https://berkcantelseren.github.io/react-hangman/)
 
 ### Refresh to play again. 
+
+### If you cant see screen use ctrl + scroll.
